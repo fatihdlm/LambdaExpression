@@ -4,7 +4,7 @@ public class App {
 
 	public static void main(String[] args) {
 		/**
-		 *  There three ways to implement body of declared method in interface.
+		 *  There are three ways to implement body of declared method in interface.
 		 *  1. Traditional way
 		 *  2. Using Anonymous Class
 		 *  3. Using Lambda Expression
